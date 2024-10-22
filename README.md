@@ -12,5 +12,7 @@ This project involves the design and development of an Airbnb Analytics Dashboar
    
    This project leverages Tableau’s advanced data visualization capabilities to provide actionable insights into Airbnb listings and revenue trends.
 
+   Dashboard Link : https://public.tableau.com/app/profile/pratibha.sharma4405/viz/AirBnBFullProject_17294143215400/Dashboard1?publish=yes
+
 
 <img width="1408" alt="Screenshot 2024-10-22 at 11 10 13 PM" src="https://github.com/user-attachments/assets/d4632b1c-761b-4b80-a30d-3a530da64b6d">
