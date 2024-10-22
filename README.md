@@ -3,9 +3,13 @@ This project involves the design and development of an Airbnb Analytics Dashboar
 
 ## Key Features:
    Price Analysis: Visualized average price per bedroom, allowing users to compare pricing trends across different property sizes.
+   
    Geographical Mapping: Created an interactive map displaying price variations by zipcode, offering insights into geographical pricing trends.
+   
    Revenue Insights: Analyzed revenue growth over time, showcasing trends in revenue fluctuations throughout the year.
+   
    Price Distribution: Compared price distribution by zipcode using bar charts, enabling quick comparisons between different regions.
+   
    This project leverages Tableau’s advanced data visualization capabilities to provide actionable insights into Airbnb listings and revenue trends.
 
 
